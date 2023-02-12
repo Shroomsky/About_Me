@@ -1,8 +1,9 @@
 # Zadanie CV
 Jest to strona z zadania newslettera [Jak zacząć programować](https://jakzaczacprogramowac.pl)
 
-Zadanie polegało na odtworzeniu projektu w formie strony www przy użyciu HTML i CSS ![CV-Inspiration](./img/inspiracja.png).
+Zadanie polegało na odtworzeniu projektu w formie strony www przy użyciu HTML i CSS 
 
+<img src="./img/inspiracja.png" width="250px">
 
 
 # Strona z rozwązaniem live: [Moje rozwiązanie](https://shroomsky.github.io/About_Me/)
