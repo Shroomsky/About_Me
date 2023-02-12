@@ -1,5 +1,5 @@
 # Zadanie CV
-Jest to strona z zadania newslettera [Jak zacząć programować](#www.jakzaczacprogramowac.pl).
+Jest to strona z zadania newslettera [Jak zacząć programować](www.jakzaczacprogramowac.pl).
 
 Zadanie polegało na odtworzeniu projektu w formie strony www przy użyciu HTML i CSS ![CV-Inspiration](./img/inspiracja.png).
 
@@ -18,18 +18,18 @@ Zadanie polegało na odtworzeniu projektu w formie strony www przy użyciu HTML 
 
 
 
-##Podgląd na stronę
+##[Podgląd na stronę]
 
-###Widok mobilny.
+###[Widok mobilny]
 
 ![Mobile View](./Screenshot_1.png)
 ![Mobile View](./Screenshot_2.png)
 ![Mobile View](./Screenshot_3.png)
 
-###Widok tabletowy.
+###Widok tabletowy
 
 ![Tablet View](./Screenshot_4.png)
 
-###Widok desktopowy.
+###Widok desktopowy
 
 ![Desktop View](./Screenshot_5.png)
