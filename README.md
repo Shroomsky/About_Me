@@ -1,11 +1,11 @@
 # Zadanie CV
-Jest to strona z zadania newslettera [Jak zacząć programować](www.jakzaczacprogramowac.pl).
+Jest to strona z zadania newslettera [Jak zacząć programować](https://jakzaczacprogramowac.pl)
 
 Zadanie polegało na odtworzeniu projektu w formie strony www przy użyciu HTML i CSS ![CV-Inspiration](./img/inspiracja.png).
 
 
 
-[Moje rozwiązanie](https://shroomsky.github.io/About_Me/)
+# [Moje rozwiązanie](https://shroomsky.github.io/About_Me/)
 
 
 ##Zbudowane przy użyciu:
