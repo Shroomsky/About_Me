@@ -1,21 +1,21 @@
+# Zadanie CV
+Jest to strona z zadania newslettera [Jak zacząć programować](#www.jakzaczacprogramowac.pl).
 
-This is a solution to task CV form [Jak zacząć programować](#www.jakzaczacprogramowac.pl).
+Zadanie polegało na odtworzeniu projektu w formie strony www przy użyciu HTML i CSS ![CV-Inspiration](./img/inspiracja.png);
 
-The task was to recreate the site ![CV-Inspiration](./img/inspiracja.png);
+[Moje rozwiązanie](https://shroomsky.github.io/About_Me/)
 
-
-![Mobile View](./Screenshot_1.png)
-![Mobile View](./Screenshot_2.png)
-![Mobile View](./Screenshot_3.png)
-![Tablet View](./Screenshot_4.png)
-![Desktop View](./Screenshot_5.png)
-
-[My solution site](https://shroomsky.github.io/About_Me/)
-
-Built with
+Zbudowane przy użyciu:
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+#Podgląd na strone
+![Mobile View](./Screenshot_1.png)
+![Mobile View](./Screenshot_2.png)
+![Mobile View](./Screenshot_3.png)
+![Tablet View](./Screenshot_4.png)
+![Desktop View](./Screenshot_5.png)
