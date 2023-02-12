@@ -21,17 +21,17 @@ Zadanie polegało na odtworzeniu projektu w formie strony www przy użyciu HTML 
 
 ## [Podgląd na stronę]
 
-### [Widok mobilny]
+### [Widok mobilny >768px]
 
 
 <img src="./Screenshot_1.png" width="300px">
 <img src="./Screenshot_2.png" width="300px">
 <img src="./Screenshot_3.png" width="300px">
 
-### [Widok tabletowy]
+### [Widok tabletowy <768px]
 
 <img src="./Screenshot_4.png" width="300px">
 
-### [Widok desktopowy]
+### [Widok desktopowy <1200px]
 
 <img src="./Screenshot_5.png" width="300px">
