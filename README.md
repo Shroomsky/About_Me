@@ -3,7 +3,7 @@ Jest to strona z zadania newslettera [Jak zacząć programować](https://jakzacz
 
 Zadanie polegało na odtworzeniu projektu w formie strony www przy użyciu HTML i CSS 
 
-<img src="./img/inspiracja.png" width="250px">
+<img src="./img/inspiracja.png" width="300px">
 
 
 # Strona z rozwązaniem live: [Moje rozwiązanie](https://shroomsky.github.io/About_Me/)
